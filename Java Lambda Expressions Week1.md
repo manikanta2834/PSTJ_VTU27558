@@ -81,6 +81,8 @@ public class Solution {
 
 
 
+
+OUTPUT:
 <img width="540" height="328" alt="image" src="https://github.com/user-attachments/assets/40649725-f78c-41c9-95e8-5d3a93dd81f3" />
 
 
